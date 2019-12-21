@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="points_text_info">Points: </string>
+    <string name="numero_cookies">0</string>
+</resources>
